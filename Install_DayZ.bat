@@ -2,7 +2,7 @@
 :menu
 set mainfolder=%CD%
 echo #######################################################
-echo # Single Player Project - DayZ laucher                #
+echo # Single Player Project - DayZ Installer              #
 echo # Patreon: https://www.patreon.com/conan513           #
 echo # Discord: https://discord.gg/TpxqWWT                 #
 echo #######################################################
